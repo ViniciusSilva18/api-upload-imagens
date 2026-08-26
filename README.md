@@ -9,6 +9,13 @@
 
 </div>
 
+<div align="center">
+  <a href="https://github.com/ViniciusSilva18/api-upload-imagens">
+    <img src="https://komarev.com/ghpvc/?username=ViniciusSilva18-api-upload-imagens&label=Visualiza%C3%A7%C3%B5es&color=06b6d4&style=flat" alt="Views" />
+  </a>
+</div>
+
+
 ## ✨ Funcionalidades
 - 📤 Upload single e múltiplo (até 10 imagens)
 - ⚡ Conversão automática para WebP
